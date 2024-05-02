@@ -627,13 +627,13 @@ requests = ">=2.25.1"
 
 [[package]]
 name = "pyright"
-version = "1.1.351"
+version = "1.1.361"
 description = "Command line wrapper for pyright"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "pyright-1.1.351-py3-none-any.whl", hash = "sha256:83b44b25396ae20661fc5f133c3fce30928ff1296d4f2e5ff0bca5fcf03eb89d"},
-    {file = "pyright-1.1.351.tar.gz", hash = "sha256:01124099714eebd7f6525d8cbfa350626b56dfaf771cfcd55c03e69f0f1efbbd"},
+    {file = "pyright-1.1.361-py3-none-any.whl", hash = "sha256:c50fc94ce92b5c958cfccbbe34142e7411d474da43d6c14a958667e35b9df7ea"},
+    {file = "pyright-1.1.361.tar.gz", hash = "sha256:1d67933315666b05d230c85ea8fb97aaa2056e4092a13df87b7765bb9e8f1a8d"},
 ]
 
 [package.dependencies]
@@ -813,4 +813,4 @@ watchdog = ["watchdog (>=2.3)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "9b3329831ff9a49226a0c51ecaa1ed2f887723bfd6e7248bf5b562b9b9c03312"
+content-hash = "92ef1268d5a04d81588828ffe42eaae3b0bb9493c66998f954527c351a19061f"
