@@ -33,7 +33,7 @@
     "@tanstack/react-query-devtools": "^4.29.23",
     "@trpc/client": "^10.45.1",
     "@trpc/next": "^10.45.1",
-    "@trpc/react-query": "^10.45.1",
+    "@trpc/react-query": "^10.45.2",
     "@trpc/server": "^10.45.1",
     "class-variance-authority": "^0.7.0",
     "framer-motion": "^11.1.7",
